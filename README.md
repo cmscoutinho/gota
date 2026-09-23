@@ -23,3 +23,4 @@ Requisitos: Android 8.0 ou superior.
 - Alguns fabricantes (Xiaomi, Samsung, Motorola…) atrasam tarefas em segundo plano. Se os avisos atrasarem, use o botão "Otimização de bateria" em Ajustes e marque o Gota como "Não otimizar".
 - O APK de release é assinado com a chave de debug, bom para uso pessoal. Para publicar na Play Store, configure sua própria chave.
 "# gota" 
+"# gota" 
